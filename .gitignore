@@ -1,0 +1,19 @@
+# Build output
+target/
+
+# Local database created on first run
+data/
+*.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
